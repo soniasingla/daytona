@@ -15,12 +15,11 @@ Daytona is a new standardized development environment platform designed for larg
 
 - **No vendor Lock-In**: Daytona offers the flexibility to choose the cloud provider that aligns with your requirements without any limitations. It centralizes environments, secures your code and artifacts, and supports your choice of code editors and Git providers, without vendor lock-in.
 
-- **Faster Onboarding**: Daytona accelerates the onboarding process, making it easier for new developers to join the team and start contributing. You can simply open a new dev workspace by typing **/#** and the name of the Git repository.
+- **Faster Onboarding**: Daytona accelerates the onboarding process, making it easier for new developers to join the team and start contributing. You can simply open a new dev workspace by typing **daytona.work/#** and the name of your Git repository.
 
 - **Easier Collaboration**: Daytona enables seamless collaboration and real-time development environment previews, optimizing constructive feedback loops.
-
 
 ## What‘s next?
 
 - [Schedule a demo](https://daytona.zapier.app/)
-- Checkout the [Quick Start Guide]()
+- Checkout the [Quick Start Guide](../quickstart)

@@ -42,8 +42,8 @@ cd installer
 After running the script, you will be asked to provide the following three variables:
 
 * `URL`: This is the domain name you have set in your DNS provider and pointed to the IP address of the machine where you are deploying Daytona.
-* `IDP_ID`: This is the client ID obtained from your identity provider as specified in the [System Requirements](#system-requirements) section.
-* `IDP_SECRET`: This is the client secret obtained from your identity provider as specified in the [System Requirements](#system-requirements) section.
+* `IDP_ID`: This is the client ID obtained from your identity provider as specified in the [System Requirements](#system-requirements).
+* `IDP_SECRET`: This is the client secret obtained from your identity provider as specified in the [System Requirements](#system-requirements).
 
 ```shell
 ./setup.sh --install
@@ -65,7 +65,7 @@ Now, you're ready to use Daytona for your development environment. You can acces
 
 ## Restart/Cleanup
 
-If you ever need to reset your Daytona setup and start fresh, you can do so by running the script with the `--remove` parameter. This action will delete the k3s cluster along with all installed tools. Once you've done this, you can recreate your environment from scratch using the `--install` option.
+If you ever need to reset your Daytona setup and start fresh, you can run the script with the `--remove` parameter. This action will delete the k3s cluster along with all installed tools. Once done, you can recreate your environment from scratch using the `--install` option.
 
 To remove your Daytona setup, use the following command:
 

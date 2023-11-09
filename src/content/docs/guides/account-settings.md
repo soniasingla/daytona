@@ -24,7 +24,7 @@ A dotfile is a configuration file that controls the settings and preferences for
 You can add a repository URL that includes your dotfiles. Daytona will clone and install your dotfiles for every new workspace.
 
 :::note
-For a detailed guide, read [The Ultimate Guide to Mastering Dotfiles](https://www.daytona.io/dotfiles/ultimate-guide-to-dotfiles)
+To know more about dotfiles, read our detailed guide: [The Ultimate Guide to Mastering Dotfiles](https://www.daytona.io/dotfiles/ultimate-guide-to-dotfiles)
 :::
 
 ## Environment Variables
