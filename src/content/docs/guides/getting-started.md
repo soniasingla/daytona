@@ -19,13 +19,13 @@ Before installing Daytona, ensure that your system meets the following requireme
 Please note that the script has been currently tested on Debian-based distros (Ubuntu/Debian)
 :::
 
-- **Domain Configuration**: You'll need a registered domain with both the base domain and wildcard DNS   records pointing to your host's IP. Your DNS records should include:
+- **Domain Configuration**: You will need a registered domain with both the base domain and wildcard DNS   records pointing to your host's IP. Your DNS records should include:
     * domain name IN A host.ip
     * *.domain-name IN A host.ip
 
 * **Identity Provider OAuth App**: You will need to set up an OAuth App with one of the identity providers such as [GitLab OAuth App](https://docs.gitlab.com/ee/integration/oauth_provider.html) or [GitHub OAuth App](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/creating-an-oauth-app). For the identity provider settings, use the following values:
-    * Homepage URL: https://{{ domain-name }}
-    * Authorization callback URL: https://id.{{ domain-name }}
+    * Homepage URL: `https://{{ domain-name }}`
+    * Authorization callback URL: `https://id.{{ domain-name }}`
 
 ## Setting Up Daytona
 
@@ -61,7 +61,7 @@ URL="daytona.example.com" IDP_ID="changeme" IDP_SECRET="changeme" ./setup.sh --i
 
 Once you have provided these values, it will ask you to deploy a DNS TXT Record in your DNS settings to create a secure certificate for your server. It will provide you with a name and a value that you need to add to your DNS settings. Once registered it may take some time to update the DNS settings.
 
-Now, you're ready to use Daytona for your development environment. You can access your Daytona Dashboard at your domain.
+Now, you are ready to use Daytona for your development environment. You can access your Daytona Dashboard at your domain.
 
 ## Restart/Cleanup
 

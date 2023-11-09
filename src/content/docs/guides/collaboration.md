@@ -20,4 +20,4 @@ The screen sharing feature in Daytona lets you share your screen with collaborat
 
 ### Collaboration Terminals
 
-Daytona's Collaboration Terminals allow multiple users to work together in the same terminal concurrently. This is perfect for pair programming, debugging, and collaborative tasks. When you're done, simply close or exit the terminal.
+Daytona's Collaboration Terminals allow multiple users to work together in the same terminal concurrently. This is perfect for pair programming, debugging, and collaborative tasks. When you are done, simply close or exit the terminal.

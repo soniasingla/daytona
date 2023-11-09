@@ -3,7 +3,7 @@ title: Create a new Workspace
 description: A guide for creating a Workspace
 ---
 
-Whether you're working with an existing repository or starting from scratch, creating a workspace in Daytona is a simple process. To start, click on the `Create` button in the Daytona dashboard.
+Whether you are working with an existing repository or starting from scratch, creating a workspace in Daytona is a simple process. To start, click on the `Create` button in the Daytona dashboard.
 
 ![Daytona Dashboard](/Workspace.png)
 
@@ -18,6 +18,6 @@ You can easily switch between your personal account and organization accounts us
 
 ## Creating a new Repository
 
-If you're starting a new project or prefer to use a template, Daytona provides a variety of templates in different programming languages, each with sample projects to help you kickstart your development.
+If you are starting a new project or prefer to use a template, Daytona provides a variety of templates in different programming languages, each with sample projects to help you kickstart your development.
 
 ![Daytona Code Template](/codetemplate.png)
