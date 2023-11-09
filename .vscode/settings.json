@@ -1,0 +1,13 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file"
+        },
+        {
+            "language": "plaintext",
+            "scheme": "file",
+            "pattern": "src/content/docs/index.mdx"
+        }
+    ]
+}

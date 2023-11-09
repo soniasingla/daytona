@@ -1,0 +1,67 @@
+---
+title: Welcome to Daytona Documentation
+description: Welcome to Daytona Documentation
+template: splash
+hero:
+  actions:
+    - text: Explore Documentation
+      link: /guides/introduction/
+      icon: right-arrow
+      variant: primary
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Image } from 'astro:assets';
+import myImage from "./src/assets/logo.svg";
+
+<div style="display: flex; justify-content: space-between; align-items: top; position: absolute;
+        top: 160px;
+        right: 80px;">
+  <Image src={myImage} alt="A description of my image." />
+</div>
+
+<br/>
+<br/>
+<br/>
+
+## Git Providers
+
+<CardGrid>
+	<Card title="GitHub" icon="github">
+	</Card>
+	<Card title="GitLab" icon="gitlab">
+	</Card>
+  <Card title="BitBucket" icon="bitbucket">
+	</Card>
+</CardGrid>
+
+## IDEs & Editors
+
+
+<CardGrid>
+	<Card title="Visual Studio Code" icon="forward-slash">
+	</Card>
+	<Card title="JetBrains" icon="open-book">
+	</Card>
+  <Card title="Vim" icon="puzzle">
+	</Card>
+</CardGrid>
+
+
+## Cloud Providers
+
+<CardGrid>
+	<Card title="Azure" icon="microsoftTeams">
+		
+	</Card>
+	<Card title="AWS" icon="rocket">
+		
+	</Card>
+  <Card title="Digital Ocean" icon="codeberg">
+	</Card>
+  <Card title="Google Cloud" icon="patreon">
+		
+	</Card>
+</CardGrid>
+
+
