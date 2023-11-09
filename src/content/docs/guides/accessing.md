@@ -16,7 +16,7 @@ daytona.work/#https://github.com/daytonaio/installer
 Once launched, it will look like this:
 
 
-![Daytona Browser IDE](./src/assets/browser.png)
+![Daytona Browser IDE](/src/assets/browser.png)
 
 Launching your workspace in Daytona through the browser sets up a complete development environment. The dependencies are automatically fetched, your integrated development environment (IDE) is initiated, and the application preview is opened.
 
