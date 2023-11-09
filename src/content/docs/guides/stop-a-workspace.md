@@ -10,7 +10,7 @@ In Daytona, you can easily stop a running workspace to manage your work environm
 
 2. Select the workspace that you want to stop. In the top-right corner of the workspace container, click on the three dots and select the `Stop` option.
 
-![Stop a Workspace](./src/assets/stop.png)
+![Stop a Workspace](/src/assets/stop.png)
 
 
 This action will trigger the process of transitioning the workspace from its current state to the `STOPPING` status. After a short interval, the workspace will be completely stopped, and its status will change to `STOPPED`.
