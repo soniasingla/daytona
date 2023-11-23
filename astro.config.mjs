@@ -17,16 +17,16 @@ export default defineConfig({
 				]},
 			{ label: 'Workspaces',
 				items: [
-					{ label: 'What are Workspaces?', link: '/guides/workspaces/' },
-					{ label: 'Create a new Workspace', link: '/guides/create-workspace/' },
-					{ label: 'Accessing a Workspace', link: '/guides/accessing/' },
+					{ label: 'What are Workspaces?', link: '/guides/what-are-workspaces/' },
+					{ label: 'Create a new Workspace', link: '/guides/create-a-new-workspace/' },
+					{ label: 'Accessing a Workspace', link: '/guides/accessing-a-workspace/' },
 					{ label: 'Collaboration', link: '/guides/collaboration/' },
 					{ label: 'Stop a Workspace', link: '/guides/stop-a-workspace/' },
 					{ label: 'Delete a Workspace', link: '/guides/delete-a-workspace/' },
 			]},
 			{ label: 'User Settings',
 				items: [
-					{ label: 'Accounts', link: '/guides/accounts/' },
+					{ label: 'Accounts', link: '/guides/account-settings/' },
 			]},
 			{ label: 'References',
 				items: [
