@@ -22,4 +22,4 @@ Daytona is a new standardized development environment platform designed for larg
 ## What‘s next?
 
 - [Schedule a demo](https://daytona.zapier.app/)
-- Checkout the [Quick Start Guide](setting-up-daytona.md)
+- Checkout the [Quick Start Guide](../setting-up-daytona)
