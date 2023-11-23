@@ -1,4 +1,3 @@
-
 ---
 title: Accessing a Workspace
 description: A guide for accessing a Workspace
