@@ -1,3 +1,4 @@
+
 ---
 title: Accessing a Workspace
 description: A guide for accessing a Workspace
@@ -7,10 +8,10 @@ Accessing a workspace in Daytona is a simple process, simplifying the workflow a
 
 ## Accessing workspace with browser-based IDE
 
-To access your workspace using a browser-based IDE, you need to prefix your GitHub or GitLab repository with `daytona.work/#`. For example,
+To access your workspace using a browser-based IDE, you need to prefix your GitHub or GitLab repository with your domain. For example,
 
 ```bash
-daytona.work/#https://github.com/daytonaio/installer
+{{domain-name}}/#{{link-to-github-repo}}
 ```
 
 Once launched, it will look like this:
@@ -23,7 +24,7 @@ Launching your workspace in Daytona through the browser sets up a complete devel
 
 ## Accessing workspace with your local IDE
 
-If you prefer to use your [local development environment](../quickstart), you can access your workspace through the command line. Daytona allows you to open a command-line interface that connects you to your remote environment. This provides a familiar command-line interface that is in sync with your workspace environment.
+If you prefer to use your [local development environment](../setting-up-daytona), you can access your workspace through the command line. Daytona allows you to open a command-line interface that connects you to your remote environment. This provides a familiar command-line interface that is in sync with your workspace environment.
 
 To view Workspace Details, Git Context, and Git Status, use the following command in your terminal:
 

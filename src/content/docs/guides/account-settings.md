@@ -3,7 +3,7 @@ title: Accounts Settings
 description: A guide for accessing a Workspace
 ---
 
-[Account settings](https://daytona.work/account/settings) allow you to customize your own personal Daytona experience.
+Account settings allow you to customize your own personal Daytona experience.
 
 ### Account Information
 
@@ -29,8 +29,8 @@ To know more about dotfiles, read our detailed guide on [Mastering Dotfiles](htt
 
 ## Environment Variables
 
-You have the option to include [environment variables](https://daytona.work/account/environment-variables) in your workspaces. These variables can store sensitive information such as passwords and secret keys. By default, they will be added to each of your workspaces.
+You have the option to include environment variables in your workspaces. These variables can store sensitive information such as passwords and secret keys. By default, they will be added to each of your workspaces.
 
 ## SSH Keys
 
-To establish a secure connection to your workspace, you can add your public [SSH keys here](https://daytona.work/account/ssh-keys). This ensures a safe and encrypted link to your workspace environment.
+To establish a secure connection to your workspace, you can add your public SSH keys. This ensures a safe and encrypted link to your workspace environment.

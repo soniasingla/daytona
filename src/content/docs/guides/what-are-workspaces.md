@@ -10,7 +10,7 @@ Daytona workspaces simplify the setup and configuration of development environme
 
 ## Workspace Lifecycle
 
-In the [Daytona dashboard](https://daytona.work/), you can easily monitor your workspace's condition through the color-coded workspace indicator. Here's what each status signifies:
+In the Daytona dashboard, you can easily monitor your workspace's condition through the color-coded workspace indicator. Here's what each status signifies:
 
 - 🟠 Starting: This status indicates that the workspace is being prepared for use and is not yet accessible to the user.
 

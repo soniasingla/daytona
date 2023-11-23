@@ -7,7 +7,7 @@ Daytona enables collaboration by allowing you to open your workspace to others. 
 
 ### Invite Members
 
-You can add members through the Daytona dashboard at the [Members](https://daytona.work/team/members) page. You can also add members by importing the CSV file having the member's email addresses.
+You can add members through the Daytona dashboard at the Members page. You can also add members by importing the CSV file having the member's email addresses.
 
 ![Daytona Member Invite](/member.png)
 
